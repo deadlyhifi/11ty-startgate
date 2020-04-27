@@ -1,7 +1,5 @@
-@import '_reset.scss';
-
-$var: white;
+@import 'reset';
 
 body {
-  background-color: $var;
+  background-color: #fff;
 }
